@@ -1,0 +1,170 @@
+body{
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	
+	/*font-family: 'Pacifico', cursive;*/
+	font-size: 110%;
+	color: #40514E
+}
+a{
+color:#11999E;	
+	
+	
+
+
+}
+
+h1{
+	width: 100%;
+	font-family: 'Sansita Swashed', cursive;
+	font-size:4em;
+	color:#EAF6F6;
+
+	
+
+}
+h2{
+	color:#66BFBF;
+
+
+
+}
+h3{
+	color:#11999E;
+	
+}
+
+.middle-container{
+	margin:auto;
+}
+.first
+{
+	background-color: powderblue;
+	padding-bottom: 100px;
+	width: 100% auto 100% auto;
+	position: relative;
+	bottom:1em;
+	margin: 0;
+
+		/*position: absolute;
+	right: 20px;*/
+}
+.second{
+	
+	
+	}
+.third{
+
+	background-color: #66BFBF;
+	margin:0;	
+}
+.firstcloud{
+	position: absolute;
+	right: 180px;
+	top: 60px;
+	
+}
+.secondcloud{
+	position: absolute;
+	bottom: 300px;
+	left: 200px;
+
+}
+
+.skill-row
+{
+	width:50%;
+
+	margin: 100px auto 100px auto;
+	text-align: left;
+
+	
+
+
+	
+}
+.footer-link{
+	color: #11999E;
+}
+.cricket
+{
+width: 30%;
+float: right;
+
+}
+.skill{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+	}
+	.pd{
+
+	}
+
+.cricket{
+	
+	width: 50%;
+}
+hr{
+	border :dotted 5px ;
+	border-top-style: none;
+	width: 10%;
+	color: #EAF6F6
+
+}
+.bottom-container{
+	padding: 50px 0 20px 0;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: #3D94F6;
+}
+}
+.BUTTON_AIK {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #0059A0;
+   font-family: 'Montserrat', sans-serif;
+	;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 40px;
+   background-color: #3D94F6;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #9D41A1;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_AIK:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #1D7DEA);
+   background-image: -moz-linear-gradient(top, #1E62D0, #1D7DEA);
+   background-image: -ms-linear-gradient(top, #1E62D0, #1D7DEA);
+   background-image: -o-linear-gradient(top, #1E62D0, #1D7DEA);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #1D7DEA);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.para{
+	width:40%;
+	margin:0 auto 0 auto;
+}
+.kratos{
+	border-radius: 100%
+}
+.c{
+	color:#EAF6F6;
+	font-size: 0.75rem;
+}
